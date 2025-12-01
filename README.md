@@ -48,10 +48,12 @@
 
 <div align="center">
 
+<!-- GitHub Stats menggunakan custom domain Anda -->
 [![Fanky's GitHub Stats](https://github-readme-stat-fanky.vercel.app/api?username=fanky86&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/fanky86)
 
 [![Top Languages](https://github-readme-stat-fanky.vercel.app/api/top-langs/?username=fanky86&layout=compact&theme=radical&hide_border=true)](https://github.com/fanky86)
 
+<!-- Streak Stats tetap menggunakan service asli -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fanky86&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -62,8 +64,8 @@
 
 <div align="center">
 
-## ⭐ Premium Repository
-[![Premium Repo](https://github-readme-stat-fanky.vercel.app/api/pin?username=fanky86&repo=Premium&theme=radical&hide_border=true)](https://github.com/fanky86/Premium)
+### ⭐ Premium Repository
+[![Premium Repo](https://github-readme-stat-fanky.vercel.app/api/pin?username=fanky86&repo=Premium&theme=radical&hide_border=false&show_owner=true)](https://github.com/fanky86/Premium)
 
 </div>
 
