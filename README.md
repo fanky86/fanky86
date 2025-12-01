@@ -48,8 +48,8 @@
 
 <div align="center">
 
-[![Fanky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fanky86&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/fanky86)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanky86&layout=compact&theme=radical&hide_border=true)](https://github.com/fanky86)
+[![Fanky's GitHub Stats](https://github-readme-stats-fanky.vercel.app/api?username=fanky86&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/fanky86)
+[![Top Languages](https://github-readme-stats-fanky.vercel.app/api/top-langs/?username=fanky86&layout=compact&theme=radical&hide_border=true)](https://github.com/fanky86)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fanky86&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
