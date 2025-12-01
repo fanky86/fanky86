@@ -1,90 +1,109 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fanky86&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Profile views" />
-</p>
+<div align="center">
 
-<h1 align="center">Hai 👋, saya Fanky</h1>
-<p align="center">Penggemar teknologi • Gamer hobi • Pembuat konten</p>
+![Profile Views](https://komarev.com/ghpvc/?username=fanky86&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/fanky86?color=1DA1F2&label=FOLLOWERS&logo=github&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/fanky86?color=FFD700&label=TOTAL+STARS&logo=github&style=for-the-badge)
 
-<p align="center">
-  <a href="https://github.com/fanky86">
-    <img src="https://img.shields.io/badge/GitHub-@fanky86-181717?style=for-the-badge&logo=github" alt="github" />
-  </a>
-  <a href="https://www.youtube.com/@fanky86">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="youtube" />
-  </a>
-  <a href="https://instagram.com/fannjha">
-    <img src="https://img.shields.io/badge/Instagram-@fannjha-E4405F?style=for-the-badge&logo=instagram" alt="instagram" />
-  </a>
-  <a href="https://wa.me/62895359611122">
-    <img src="https://img.shields.io/badge/WhatsApp-Hubungi-25D366?style=for-the-badge&logo=whatsapp" alt="whatsapp" />
-  </a>
-</p>
+<h1 align="center">👋 Halo, Saya Fanky!</h1>
+<h3 align="center">🔥 Tech Enthusiast • 🎮 Gaming Addict • 🛠️ Content Creator</h3>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Exploring+Tech+World;Building+Cool+Projects;Gaming+All+Day;Creating+Useful+Content)](https://git.io/typing-svg)
 
-## 🔥 Sorotan
-- ⚡ Hobi: main game, buat bot sederhana, eksperimen Termux  
-- 📫 Kontak: [WhatsApp](https://wa.me/62895359611122?text=Halo%20Bang!)  
-- 🛠️ Bahasa & alat: JavaScript · Python · Termux · Git · GitHub
+</div>
+
+## 📌 Quick Links
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fanky86.github.io)
+[![YouTube](https://img.shields.io/badge/🎬_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fanky86)
+[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fannjha)
+[![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895359611122?text=Halo%20Bang!)
+[![GitHub](https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fanky86)
+
+</div>
 
 ---
 
-## 📊 Statistik singkat (stabil)
-<p align="center">
-  <a href="https://github.com/fanky86?tab=followers">
-    <img src="https://img.shields.io/github/followers/fanky86?label=Pengikut&style=flat-square" alt="followers" />
-  </a>
-  <a href="https://github.com/fanky86?tab=stars">
-    <img src="https://img.shields.io/github/stars/fanky86?label=Bintang&style=flat-square" alt="stars" />
-  </a>
-  <a href="https://github.com/fanky86/Premium">
-    <img src="https://img.shields.io/github/stars/fanky86/Premium?label=Repo+Premium&style=flat-square" alt="repo stars" />
-  </a>
+## 🛠️ Tech Stack & Tools
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fanky86.readme" alt="visitor badge" />
-</p>
+<div align="center">
 
----
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-## 💼 Proyek unggulan
-<p align="center">
-  <a href="https://github.com/fanky86/Premium">
-    <img src="https://img.shields.io/badge/Repo-Premium-blue?style=for-the-badge" alt="Premium repo" />
-  </a>
-</p>
+### 🚀 Frameworks & Platforms
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<p align="center">
-  <img src="assets/Premium-stats.svg" alt="Statistik repo Premium" />
-</p>
-
-> Keterangan: gambar di atas dihasilkan otomatis oleh GitHub Actions dan disimpan di `assets/`.  
-> Jika workflow belum dijalankan, gambar akan muncul setelah Action pertama selesai.
+</div>
 
 ---
 
-## 🔗 Terhubung dengan saya
-<p align="center">
-  <a href="https://www.youtube.com/@fanky86" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="48"/></a>
-  &nbsp;
-  <a href="https://instagram.com/fannjha" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="48"/></a>
-  &nbsp;
-  <a href="https://wa.me/62895359611122" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="48"/></a>
-  &nbsp;
-  <a href="https://www.facebook.com/fanky.sangperudal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="48"/></a>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![Fanky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fanky86&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/fanky86)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanky86&layout=compact&theme=radical&hide_border=true)](https://github.com/fanky86)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fanky86&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🛠️ Auto-generate stats (disarankan)
-Saya menyertakan contoh **GitHub Action** dan **script Python** yang:
-1. Mengambil data repo dari GitHub API.  
-2. Membuat **SVG modern**: kartu stats + bar top languages.  
-3. Menyimpan hasil ke folder `assets/` dan *commit* otomatis ke repo.
+## 🏆 Featured Projects
 
-Lihat file di `.github/workflows/generate-stats.yml` dan `scripts/gen_stats.py`.
+<div align="center">
+
+### ⭐ Premium Repository
+[![Premium Repo](https://github-readme-stats.vercel.app/api/pin/?username=fanky86&repo=Premium&theme=radical&hide_border=true)](https://github.com/fanky86/Premium)
+
+</div>
 
 ---
 
-## Lisensi
-Repo ini dikelola — silakan gunakan atau kontribusi.
+## 🎮 Gaming & Interests
 
+<div align="center">
+
+### 🎯 Current Interests
+- 🤖 Building Telegram/WhatsApp Bots
+- 🎥 Content Creation & Editing
+- 🕹️ Competitive Gaming
+- 📱 Android Customization
+- 🔧 Terminal & Scripting
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+### 🌐 Social Media
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fanky86)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fannjha)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fanky.sangperudal)
+
+### 💬 Instant Messaging
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895359611122)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Support
+Jika kamu menyukai project saya, pertimbangkan untuk memberikan ⭐ di repository!
+
+**Terima kasih telah berkunjung!** 🚀
+
+</div>
