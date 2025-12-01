@@ -61,8 +61,8 @@
 
 <div align="center">
 
-### ⭐ Premium Repository
-[![Premium Repo](https://github-readme-stats.vercel.app/api/pin/?username=fanky86&repo=Premium&theme=radical&hide_border=true)](https://github.com/fanky86/Premium)
+## ⭐ Premium Repository
+[![Premium Repo](https://github-readme-stat-fanky.vercel.app/api/pin?username=fanky86&repo=Premium&theme=radical&hide_border=true)](https://github.com/fanky86/Premium)
 
 </div>
 
