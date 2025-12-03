@@ -54,7 +54,7 @@
 [![Top Languages](https://github-readme-stat-fanky.vercel.app/api/top-langs/?username=fanky86&layout=compact&theme=radical&hide_border=true)](https://github.com/fanky86)
 
 <!-- Streak Stats tetap menggunakan service asli -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fanky86&theme=radical&hide_border=true)](https://portofolio-tau-jade.vercel.app/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fanky86&theme=radical&hide_border=true)](https://github.com/fanky86)
 
 </div>
 
