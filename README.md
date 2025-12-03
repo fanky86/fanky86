@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fanky86.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-tau-jade.vercel.app)
 [![YouTube](https://img.shields.io/badge/🎬_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fanky86)
 [![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fannjha)
 [![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895359611122?text=Halo%20Bang!)
